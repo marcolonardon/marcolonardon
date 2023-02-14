@@ -1,10 +1,10 @@
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcolonardon&show_icons=true&count_private=true&hide_border=true&title_color=F05D5E&icon_color=885053&text_color=E7ECEF&bg_color=0d1117" alt="Marco Lonardon Jr github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolonardon&layout=compact&hide_border=true&title_color=F05D5E&text_color=E7ECEF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcolonardon&show_icons=true&count_private=true&hide_border=true&title_color=F05D5E&icon_color=885053&text_color=C9D1D9&bg_color=0d1117" alt="Marco Lonardon Jr github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolonardon&layout=compact&hide_border=true&title_color=F05D5E&text_color=C9D1D9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marcolonardon&bg_color=0D1117&color=E7ECEF&line=F05D5E&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marcolonardon&bg_color=0D1117&color=C9D1D9&line=F05D5E&point=885053&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
