@@ -1,23 +1,80 @@
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcolonardon&show_icons=true&count_private=true&hide_border=true&title_color=F78166&icon_color=885053&text_color=C9D1D9&&theme=transparent" alt="Marco Lonardon Jr github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcolonardon&layout=compact&hide_border=true&title_color=F78166&text_color=C9D1D9&theme=transparent" />
+<div align="center">
+
+# Marco Antônio Lonardon Júnior
+
+### Software Engineer • Full Stack Developer
+
+Construindo aplicações web, jogos e soluções conectadas com foco em **produto, experiência do usuário e código sustentável**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/marcolonardon/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:marco.lndjr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/marcolonardon)
+
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcolonardon&bg_color=0D111700&color=C9D1D9&line=F78166&point=885053&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-<div align="center"> 
-<!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-<a href = "mailto:marco.lndjr@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> -->
- </div>
- 
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcolonardon}/count.svg" /></p> 
+## Sobre mim
+
+* 🎓 Engenharia de Software na **UNAERP**
+* 💻 Desenvolvimento **Full Stack**, principalmente com **React, TypeScript, Java e Spring Boot**
+* 🔄 Experiência com modernização de sistemas legados, APIs REST e interfaces responsivas
+* 🎮 Desenvolvimento de jogos e projetos educacionais com **Unity + C#**
+* 🔌 Interesse em **IoT, automação, sistemas embarcados e integração hardware/software**
+* 🧩 Foco em transformar problemas reais em soluções simples, organizadas e escaláveis
+
+## Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,vite,cs,dotnet,unity,docker,git,github,postgres,firebase,figma,postman&perline=8" alt="Tecnologias utilizadas por Marco Lonardon" />
+
+</div>
+
 <br>
-</div> -->
+
+<div align="center">
+
+**Frontend** · React · TypeScript · JavaScript · Vite
+**Backend** · Java · Spring Boot · REST APIs · C#
+**Ferramentas** · Git · GitHub · Docker · Postman · Figma
+**Outros** · Unity · Firebase · SQL · IoT
+
+</div>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcolonardon&theme=github_dark" alt="Resumo do perfil GitHub de Marco Lonardon" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcolonardon&theme=github_dark" alt="Estatísticas do GitHub" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcolonardon&theme=github_dark" alt="Linguagens mais utilizadas" />
+
+</div>
+
+<div align="center">
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=marcolonardon&theme=github-compact&hide_border=true&area=true"
+alt="Gráfico de contribuições do GitHub"
+/>
+
+</div>
 
 
+---
 
+<div align="center">
 
+<sub>Obrigado pela visita. Explore meus repositórios e projetos abaixo.</sub>
+
+</div>
