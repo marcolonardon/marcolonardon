@@ -62,11 +62,24 @@ Construindo aplicações web, jogos e soluções conectadas com foco em **produt
 
 <div align="center">
 
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=marcolonardon&theme=github-compact&hide_border=true&area=true"
-alt="Gráfico de contribuições do GitHub"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/marcolonardon/marcolonardon/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/marcolonardon/marcolonardon/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    width="100%"
+    alt="GitHub contribution graph"
+    src="https://raw.githubusercontent.com/marcolonardon/marcolonardon/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
 
 </div>
 
